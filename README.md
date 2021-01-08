@@ -1,6 +1,6 @@
-写于19年底，请考虑时效性
+### 写于19年底，请考虑时效性
 
-大致分为时间线、简历、刷题、公司分析和建议几个部分。适合像我一样找工向、陆本、之前没有大厂实习、转专业的同学阅读
+大致分为时间线、简历、刷题、公司分析和建议几个部分。
 
 ## 时间线
 
@@ -55,7 +55,6 @@
 
 2. linkedin
 LinkedIn每年发的面试并不多，但面试大都是原题，我在准备的时候翻遍了地里的面经，基本所有题都出自LC的LinkedIn tag，所以拿到面试就意味着已经成功了一大半，那么如何才能拿到LinkedIn面试呢？
-
 首先是要早投！LinkedIn每年招人很少，所以招人窗口期很短，那么请提前找好内推把简历发过去，并在LinkedIn上设置提醒，保证position一放出第一时间内推！
 然后是多投！和其他厂不一样。LinkedIn把intern划分的十分细致，我知道的就有SWE、Systems & Infra、UI、ML、SRE、DS、Big Data等很多个分支。那么如果同时投多个岗位拿到面试的概率会大大提高。我今年看到LinkedIn的SWE intern申请人数是15000+，而UI和Systems & Infra都只有1500左右，但我不觉得SWE intern的hc能有另外两个的十倍，所以很显然，如果你有相关背景，在SWE intern外同时投其他track拿到面试的概率会大大提高！我自己SWE intern简历拒，但是UI和Systems & Infra都被捞起来了。其实偏前端的简历本来就可以直接拿来投UI，而偏后端的简历加一点distributed system、cache、message queue等等相关技术就可以投infra了…而且其他大部分track的面试主要还是算法，地里也有很多面经可以用来准备。
 
